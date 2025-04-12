@@ -1,0 +1,13 @@
+name: flutter_project
+description: A new Flutter project.
+
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '^3.7.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  fl_chart: ^0.70.0
